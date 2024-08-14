@@ -55,9 +55,6 @@ import sam.projects.movisamapp.data.TvDetails
 import sam.projects.movisamapp.ui.theme.MovisamAppTheme
 import sam.projects.movisamapp.viewmodel.MovieViewModel
 
-
-
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

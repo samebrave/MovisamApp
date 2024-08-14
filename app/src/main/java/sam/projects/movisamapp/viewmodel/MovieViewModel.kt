@@ -55,6 +55,6 @@ class MovieViewModel : ViewModel() {
     }
 
     companion object {
-        private const val API_KEY = "00adaaea20c9f90e32bdfe907a8927a4" // TMDb API anahtarınızı buraya ekleyin
+        private const val API_KEY = "YOUR_API_KEY" // TMDb API anahtarınızı buraya ekleyin
     }
 }
