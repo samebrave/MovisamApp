@@ -22,6 +22,8 @@ I developed Jetpack Compose application using Retrofit and MVVM technologies wit
    ```bash
    git clone https://github.com/username/movie-tv-search-app.git
 
+## Screenshots
+
   ![ss](https://github.com/samebrave/MovisamApp/blob/main/app/src/main/java/sam/projects/movisamapp/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20-%202024-08-14%2015-52-35.png) 
   ![ss](https://github.com/samebrave/MovisamApp/blob/main/app/src/main/java/sam/projects/movisamapp/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20-%202024-08-14%2015-52-46.png)
   ![ss](https://github.com/samebrave/MovisamApp/blob/main/app/src/main/java/sam/projects/movisamapp/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20-%202024-08-14%2015-53-00.png)
