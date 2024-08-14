@@ -20,7 +20,7 @@ I developed Jetpack Compose application using Retrofit and MVVM technologies wit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/movie-tv-search-app.git
+   git clone https://github.com/samebrave/MovisamApp.git
 
 ## Screenshots
 
